@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: black;
+	font-family:novi;
+	font-size:16px;
+	line-height: 18px;
+	width: 600;
+	background-color: transparent;
+	padding: 20px;
+}
+.paragraf_2 {color:black; background-color: rgba(255, 255, 255, 0.5)}
+
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+}
+
+span{color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("slike/download.jpg");
+}
+.drugapozadina{
+	background-color: darkgray;	
+}
+a:link {
+	color: black;
+	background-color: transparent;
+	padding: 5px;
+	line-height: 25px;	
+}
+a:hover{
+	background-color: darkgrey;
+}
+img {
+	height: 400px;	
+}
